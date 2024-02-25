@@ -1,1 +1,0 @@
-C:\\Users\\aksen\\Documents\\Lab\\Lab2\\
