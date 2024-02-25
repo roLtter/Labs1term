@@ -1,0 +1,2 @@
+83 -1 -40 41 -68 35 -72 -62 42 2 51 37 3 71 15 -74 
+The sum of the maximum and minimum elements of the array = 9
